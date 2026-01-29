@@ -28,9 +28,10 @@ Compare Particle-Attached (PA) vs Free-Living (FL) microbial communities
 4. Co-occurrence and redundancy analyses
 
 📅 Analysis Timeline (Living Document)
+
 #### ✅ Day 1 — From Raw Reads to Clean Data
 
-**Day 1 discuss  about Raw Reads to Clean Data**
+**Day 1 discuss about Raw Reads to Clean Data**
 Please see below for more deatails:
 📂 Folder: day01_qc_preprocessing/
 ✍️ Blog:https://jojyjohn28.github.io/blog/size-fractionated-microbiome-analysis-day1/
@@ -49,6 +50,13 @@ Please see below for more deatails:
 
 📂 Folder: day03_motus_profiling/
 ✍️ Blog: https://jojyjohn28.github.io/blog/size-fractionated-microbiome-analysis-day3/
+
+✅ Day 4 — Gene Catalog Construction & Functional Annotation
+Here I am building a non-redundant prokaryotic gene catalog and annotating it with eggNOG for functional profiling.
+Please see below for more details:
+
+📂 Folder: day04_gene_catalog/
+✍️ Blog: https://jojyjohn28.github.io/blog/size-fractionated-microbiome-analysis-day4/
 
 #### 🔜 Upcoming Steps (Planned)
 
