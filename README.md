@@ -51,25 +51,28 @@ Please see below for more deatails:
 📂 Folder: day03_motus_profiling/
 ✍️ Blog: https://jojyjohn28.github.io/blog/size-fractionated-microbiome-analysis-day3/
 
-✅ Day 4 — Gene Catalog Construction & Functional Annotation
+#### ✅ Day 4 — Gene Catalog Construction & Functional Annotation
+
 Here I am building a non-redundant prokaryotic gene catalog and annotating it with eggNOG for functional profiling.
 Please see below for more details:
 
 📂 Folder: day04_gene_catalog/
 ✍️ Blog: https://jojyjohn28.github.io/blog/size-fractionated-microbiome-analysis-day4/
 
+#### Day 5 -Substrate Uptake & Utilization Analysis
+
+Here I focus on profiling substrate degradation and uptake machinery in size-fractionated estuarine microbiomes (FL vs PA).
+The workflow integrates gene prediction, functional annotation, read mapping, and heatmap visualization
+
+📂 Folder: day05_substrate_uptake/
+✍️ Blog: https://jojyjohn28.github.io/blog/day5-substrate-uptake-patterns/
+
 #### 🔜 Upcoming Steps (Planned)
 
-1. Day 4: Total vs Active community comparisons (DNA vs RNA)
+Day 6: DNA:RNA ratios and activity-based niche modeling
 
-2. Day 5: Functional profiling using CAZymes & transporters
+Day 7: Co-occurrence networks (season, bay, fraction)
 
-3. Day 6: Non-redundant gene catalog construction
-
-4. Day 7: DNA:RNA ratios and activity-based niche modeling
-
-5. Day 8: Co-occurrence networks (season, bay, fraction)
-
-6. Day 9: Functional redundancy modeling
+Day 8: Functional redundancy modeling
 
 **(Timeline may adapt as analysis evolves — this reflects real research, not a fixed tutorial.)**
