@@ -81,8 +81,15 @@ This post documents an ongoing analysis of 1,824 representative estuarine genome
 📂 Folder: day07_genome_based_substrate
 ✍️ Blog: https://jojyjohn28.github.io/blog/fl-pa-cazyme-transporter-genome-analysis/
 
+#### Day 8 -Life style calssification_retrieved genome (2000)
+
+Day 8 walks through a complete genome lifestyle classification workflow: calculating mean abundance and prevalence across fractions, computing log2 fold-change, counting how often each genome dominates in matched PA-FL sample pairs, and then merging those lifestyle assignments with CAZyme and transporter counts using Python. Includes the R and Python scripts, a worked example from real data, and a methods paragraph ready for the manuscript.
+
+📂 Folder: day08_lifestyle_classification
+✍️ Blog: https://jojyjohn28.github.io//blog/fl-pa-genome-lifestyle-classification/
+
 #### 🔜 Upcoming Steps (Planned)
 
-Day 8: Functional redundancy modeling
+Day 9: Functional redundancy modeling
 
 **(Timeline may adapt as analysis evolves — this reflects real research, not a fixed tutorial.)**
